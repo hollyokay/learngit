@@ -5,3 +5,5 @@ Git
 Git tracks changes of files.
 
 Added in dev branch.
+
+Creating a new branch is quick AND simple.
